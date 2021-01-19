@@ -9,11 +9,13 @@ Table of Contents:
 
 :two: Club Communication
 
-:three: GitHub and Git
+:three: Upcoming Events and Ways To Get Involved
 
-:four: Interacting With the Code
+:four: GitHub and Git
 
-:five: Reference Materials
+:five: Interacting With the Code
+
+:six: Reference Materials
 
 ### 1. About the Club
 
@@ -85,7 +87,7 @@ hferdynu@nd.edu
 
 I have always liked math and I would like to use it in my professional career. I'm hoping to connect my future with financial services and quantitative finance is one of the fields I find particularly attractive.
 
-### 3. GitHub and Git
+### 4. GitHub and Git
 
 :star: What is GitHub?
 
@@ -106,7 +108,7 @@ Git documentation (manual pages): https://git-scm.com/docs
 
 Codecademy course: https://www.codecademy.com/learn/learn-git
 
-### 5. Reference Materials
+### 6. Reference Materials
 
 Max Dama on Automated Trading: http://isomorphisms.sdf.org/maxdama.pdf
 
