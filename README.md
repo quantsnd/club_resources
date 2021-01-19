@@ -14,6 +14,8 @@ Table of Contents:
 
 ### 1. About the Club
 
+**Our mission is to prepare club members for success in careers and competitions related to quantitative trading by providing workshops, projects and exposure to industry-leading firms.**
+
 Board Members:
 
 **Kyle Duffy - Chairperson**    
