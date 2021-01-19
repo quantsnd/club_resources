@@ -1,7 +1,7 @@
 # QCND
 Resources for QCND: the Quant Club of Notre Dame
 
-<img align="right" width="190" height="180" src="https://github.com/kyduff/qcnd/blob/readme_updates/nd_logo.png">
+<img align="right" width="200" height="180" src="https://github.com/kyduff/qcnd/blob/readme_updates/nd_logo.png">
 
 Table of Contents:
 1. About the Club
