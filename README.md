@@ -1,5 +1,5 @@
 # QCND
-Resources for QCND: the Quant Club of Notre Dame
+Official resource page for the **Quant Club of Notre Dame**!
 
 <img align="right" width="200" height="180" src="https://github.com/kyduff/qcnd/blob/readme_updates/nd_logo.png">
 
@@ -17,7 +17,7 @@ Table of Contents:
 
 :six: Reference Materials
 
-### 1. About the Club
+## About the Club
 
 **Our mission is to prepare club members for success in careers and competitions related to quantitative trading by providing workshops, projects and exposure to industry-leading firms.**
 
@@ -87,41 +87,37 @@ hferdynu@nd.edu
 
 I have always liked math and I would like to use it in my professional career. I'm hoping to connect my future with financial services and quantitative finance is one of the fields I find particularly attractive.
 
-### 4. GitHub and Git
+## GitHub and Git
 
 :star: What is GitHub?
 
 * GitHub is a web server meant for managing *git clients*
 * The *git client* is where the magic happens
 
-:star: And what is Git?
+:star: And what is the *git client*?
 
-* Git is a version control system
+* `git` is a version control system
 * Developed by Linus Torvalds (inventor of Linux)
 * It tracks changes in a series of *commits* and tracks different phases of development in *branches* which eventually get merged into the deployed version
 
-:star: Resources
+:star: Why do we use git?
 
-Pro Git book: https://git-scm.com/book/en/v2
+* Git allows people to collaborate on code and monitor the evolution of their projects
+* It is the leading system *by far*.
 
-Git documentation (manual pages): https://git-scm.com/docs
+:star: Resources:
 
-Codecademy course: https://www.codecademy.com/learn/learn-git
+* Pro Git book: https://git-scm.com/book/en/v2
+* Git documentation (manual pages): https://git-scm.com/docs
+* Codecademy course: https://www.codecademy.com/learn/learn-git
 
-### 6. Reference Materials
+## Reference Materials
 
-Max Dama on Automated Trading: http://isomorphisms.sdf.org/maxdama.pdf
-
-Interview with a quant portfolio manager about building trading strategies: https://blog.quandl.com/interview-with-a-quant-part-one
-
-Intro to Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
-
-HackerRank: https://www.hackerrank.com/
-
-Intro to Python 3 from Codecademy: https://www.codecademy.com/learn/learn-python-3
-
-Comprehensive Python tutorial: https://docs.python.org/3/tutorial/
-
-Python course by Google: https://developers.google.com/edu/python/introduction
-
-Numpy tutorial: https://cs231n.github.io/python-numpy-tutorial/
+* [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf)
+* [Interview with a quant portfolio manager about building trading strategies:](https://blog.quandl.com/interview-with-a-quant-part-one)
+* [Intro to Linux command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* HackerRank: https://www.hackerrank.com/
+* Intro to Python 3 from Codecademy: https://www.codecademy.com/learn/learn-python-3
+* Comprehensive Python tutorial: https://docs.python.org/3/tutorial/
+* Python course by Google: https://developers.google.com/edu/python/introduction
+* Numpy tutorial: https://cs231n.github.io/python-numpy-tutorial/
