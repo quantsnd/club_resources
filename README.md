@@ -118,19 +118,19 @@ Practically all of our code is written in *Python 3* and assumes you have some p
 ### Package installation instructions
 We *highly* recommend managing all of your packages in a virtual environment. If you already have a virtual environment set up and activated, feel free to jump straight to the "Installation Step."
 
-1. Create a virtual environment.  In Quant Club we use the [Anaconda Software Distribution](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to manage our virtual environments. To create one, call (in the Terminal on MacOS and in Anaconda Prompt on Windows)
+:gift: Create a virtual environment.  In Quant Club we use the [Anaconda Software Distribution](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to manage our virtual environments. To create one, call (in the Terminal on MacOS and in Anaconda Prompt on Windows)
 ```
 conda create -n <environment name> python=3.8 -y
 ```
 and replace `<environment name>` with whatever you want the environment to be named.
 
-2. Enter your virtual environment.  To enter a previously created virtual environment, call
+:gift: Enter your virtual environment.  To enter a previously created virtual environment, call
 ```
 conda activate <environment name>
 ```
 and notice the environment name appear in parentheses at the beginning of your prompt.
 
-3. Installation Step.  To install the required packages, call
+:gift: Installation Step.  To install the required packages, call
 ```
 conda install --file requirements.txt -y
 ```
