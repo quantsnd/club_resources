@@ -123,11 +123,13 @@ We *highly* recommend managing all of your packages in a virtual environment. If
 conda create -n <environment name> python=3.8 -y
 ```
 and replace `<environment name>` with whatever you want the environment to be named.
+
 2. Enter your virtual environment.  To enter a previously created virtual environment, call
 ```
 conda activate <environment name>
 ```
 and notice the environment name appear in parentheses at the beginning of your prompt.
+
 3. Installation Step.  To install the required packages, call
 ```
 conda install --file requirements.txt -y
