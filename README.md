@@ -3,7 +3,7 @@ Official resource page for the **Quant Club of Notre Dame**!
 
 <img align="right" width="200" height="180" src="https://github.com/kyduff/qcnd/blob/readme_updates/nd_logo.png">
 
-Table of Contents:
+## Table of Contents
 
 :one: About the Club
 
@@ -23,9 +23,9 @@ Table of Contents:
 
 Board Members:
 
-:small_orange_diamond: **Kyle Duffy - Chairperson**    
+:small_orange_diamond: **Kyle Duffy - Chairperson**
 
-Senior, Mathematics and Computer Science    
+Senior, Mathematics and Computer Science
 
 Working at Belvedere Trading
 
@@ -100,24 +100,49 @@ I have always liked math and I would like to use it in my professional career. I
 * Developed by Linus Torvalds (inventor of Linux)
 * It tracks changes in a series of *commits* and tracks different phases of development in *branches* which eventually get merged into the deployed version
 
-:star: Why do we use git?
+:star: Why do we use `git`?
 
-* Git allows people to collaborate on code and monitor the evolution of their projects
+* `git` allows people to collaborate on code and monitor the evolution of their projects
 * It is the leading system *by far*.
 
 :star: Resources:
 
-* Pro Git book: https://git-scm.com/book/en/v2
-* Git documentation (manual pages): https://git-scm.com/docs
-* Codecademy course: https://www.codecademy.com/learn/learn-git
+* [Pro Git book](https://git-scm.com/book/en/v2)
+* [Git documentation (manual pages)](https://git-scm.com/docs)
+* [Codecademy course](https://www.codecademy.com/learn/learn-git)
+
+## Interacting with the code
+
+Practically all of our code is written in *Python 3* and assumes you have some packages installed before using it.
+
+### Package installation instructions
+We *highly* recommend managing all of your packages in a virtual environment. If you already have a virtual environment set up and activated, feel free to jump straight to the "Installation Step."
+
+1. Create a virtual environment.  In Quant Club we use the [Anaconda Software Distribution](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to manage our virtual environments. To create one, call (in the Terminal on MacOS and in Anaconda Prompt on Windows)
+```
+conda create -n <environment name> python=3.8 -y
+```
+and replace `<environment name>` with whatever you want the environment to be named.
+2. Enter your virtual environment.  To enter a previously created virtual environment, call
+```
+conda activate <environment name>
+```
+and notice the environment name appear in parentheses at the beginning of your prompt.
+3. Installation Step.  To install the required packages, call
+```
+conda install --file requirements.txt -y
+```
+in the repository's main directory. You may see some warning messages--this is OK.
+
+You're now ready to start interacting with the code!
 
 ## Reference Materials
 
 * [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf)
-* [Interview with a quant portfolio manager about building trading strategies:](https://blog.quandl.com/interview-with-a-quant-part-one)
+* [Interview with a quant portfolio manager about building trading strategies](https://blog.quandl.com/interview-with-a-quant-part-one)
 * [Intro to Linux command line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-* HackerRank: https://www.hackerrank.com/
-* Intro to Python 3 from Codecademy: https://www.codecademy.com/learn/learn-python-3
-* Comprehensive Python tutorial: https://docs.python.org/3/tutorial/
-* Python course by Google: https://developers.google.com/edu/python/introduction
-* Numpy tutorial: https://cs231n.github.io/python-numpy-tutorial/
+* [HackerRank](https://www.hackerrank.com/)
+* [Intro to Python 3 from Codecademy](https://www.codecademy.com/learn/learn-python-3)
+* [Comprehensive Python tutorial](https://docs.python.org/3/tutorial/)
+* [Python course by Google](https://developers.google.com/edu/python/introduction)
+* [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
