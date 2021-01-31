@@ -89,7 +89,7 @@ I have always liked math and I would like to use it in my professional career. I
 
 ## Club Communication
 
-:speech_balloon: Slack: https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g
+:speech_balloon: [Slack](https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g)
 
 :speech_balloon: Google Group
 
