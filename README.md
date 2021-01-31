@@ -87,6 +87,14 @@ hferdynu@nd.edu
 
 I have always liked math and I would like to use it in my professional career. I'm hoping to connect my future with financial services and quantitative finance is one of the fields I find particularly attractive.
 
+## Club Communication
+
+:speech_balloon: Slack: https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g
+
+:speech_balloon: Google Group
+
+:speech_balloon: Google Calendar
+
 ## GitHub and Git
 
 :star: What is GitHub?
@@ -103,7 +111,7 @@ I have always liked math and I would like to use it in my professional career. I
 :star: Why do we use `git`?
 
 * `git` allows people to collaborate on code and monitor the evolution of their projects
-* It is the leading system *by far*.
+* It is the leading system *by far*
 
 :star: Resources:
 
@@ -111,12 +119,12 @@ I have always liked math and I would like to use it in my professional career. I
 * [Git documentation (manual pages)](https://git-scm.com/docs)
 * [Codecademy course](https://www.codecademy.com/learn/learn-git)
 
-## Interacting with the code
+## Interacting With the Code
 
 Practically all of our code is written in *Python 3* and assumes you have some packages installed before using it.
 
-### Package installation instructions
-We *highly* recommend managing all of your packages in a virtual environment. If you already have a virtual environment set up and activated, feel free to jump straight to the "Installation Step."
+### Package Installation Instructions
+We *highly* recommend managing all of your packages in a virtual environment. If you already have a virtual environment set up and activated, feel free to jump straight to the "Installation Step".
 
 :white_check_mark: Create a virtual environment.  In Quant Club we use the [Anaconda Software Distribution](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to manage our virtual environments. To create one, call (in the Terminal on MacOS and in Anaconda Prompt on Windows)
 ```
@@ -134,7 +142,7 @@ and notice the environment name appear in parentheses at the beginning of your p
 ```
 conda install --file requirements.txt -y
 ```
-in the repository's main directory. You may see some warning messages--this is OK.
+in the repository's main directory. You may see some warning messages - this is OK.
 
 You're now ready to start interacting with the code!
 
