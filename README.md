@@ -91,9 +91,9 @@ I have always liked math and I would like to use it in my professional career. I
 
 :speech_balloon: [Slack](https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g)
 
-:speech_balloon: Google Group
+:speech_balloon: [Google Group](https://groups.google.com/a/nd.edu/g/quant-club-2020-21-list)
 
-:speech_balloon: Google Calendar
+:speech_balloon: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=cXVhbnRzQG5kLmVkdQ)
 
 ## GitHub and Git
 
