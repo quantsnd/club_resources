@@ -5,97 +5,41 @@ Official resource page for the **Quant Club of Notre Dame**!
 
 ## Table of Contents
 
-:one: About the Club
+:one: About the club
 
-:two: Club Communication
+:two: Club communication
 
-:three: Upcoming Events and Ways To Get Involved
+:three: Upcoming events and ways to get involved
 
-:four: GitHub and Git
+:four: GitHub and git
 
-:five: Interacting With the Code
+:five: Interacting with the code
 
-:six: Reference Materials
+:six: Reference materials
 
-## About the Club
+:seven: Leadership
 
-**Our mission is to prepare club members for success in careers and competitions related to quantitative trading by providing workshops, projects and exposure to industry-leading firms.**
+## About the club
 
-Board Members:
+**Our mission** is to prepare club members for success in careers and competitions related to quantitative trading by providing workshops, projects and exposure to industry-leading firms.
 
-:small_orange_diamond: **Kyle Duffy - Chairperson**
+We'll chat regularly on Slack (see [Club communication](#club-communication) to join) and meet every week with interactive presentations and time to practice new skills. Towards the end of the semester we'll start working on projects with guidance from one of our corporate sponsors, [Belvedere Trading](http://www.belvederetrading.com/). Starting next year, we'll also be putting together teams to send to international trading competitions at the University of Chicago and MIT.
 
-Senior, Mathematics and Computer Science
+## Club communication
 
-Working at Belvedere Trading
+:speech_balloon: Join our [Slack workspace](https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g)
 
-kduffy5@nd.edu
+:speech_balloon: Join our [Google Group](https://groups.google.com/a/nd.edu/g/quant-club-2020-21-list)
 
-I started my career in trading when I read *The Intelligent Investor* by Benjamin Graham. Now I primarily focus on merging statistics and computing to create systematic options trading strategies. I love what I do and always like to learn more about math and computing!
+:speech_balloon: Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=cXVhbnRzQG5kLmVkdQ)
 
-:small_orange_diamond: **Sam Gruenler - Managing Director**
+## Upcoming events and ways to get involved
 
-Junior, Economics and ACMS
+We will be meeting **every week** starting soon. To stay in the loop, join our Slack workspace and Google Group, and subscribe to our public calendar. The links to those resources are all under [Club communication](#club-communication). We'll regularly post updates about meeting times/places in there, and everyone in leadership is regularly available via Slack or email if you have questions.
 
-Working at Group One Trading
+Additionally, one of our corporate sponsors, Belvedere Trading, will be hosting an information session about their Junior Hybrid Trader role on **Feb 11**.  Look [here](https://mailchi.mp/6d7b66f0ba30/jht-informationsession-2021) for more information and a registration link. It's limited to the **first 100 registrants** so sign up quick!
 
-sgruenle@nd.edu
-
-I’ve been interested in problems involving math and markets since high school, and when I discovered the quant trading field, it seemed like a great combination of these interests. Since then, I’ve focused particularly on applying statistics to commodity derivatives, and I’ll be working at Group One Trading next summer.
-
-:small_orange_diamond: **Matteo Cosentino**
-
-Junior, Physics and Economics
-
-Working at Bank of America
-
-mcosenti@nd.edu
-
-I began investing many years before college, but once I discovered the power of computational physics, I saw the opportunity to apply this to my investing strategies. Since then I have worked at Wolfe Research, a quantitative research firm, and will be working for Bank of America’s quant group next summer.
-
-:small_orange_diamond: **Ben Gluckow**
-
-Junior, ACMS and Economics
-
-Working at SIG
-
-bgluckow@nd.edu
-
-I came into Notre Dame thinking that I would be more interested in working in data science or technology. I stumbled across quant trading in my career search, and it seemed like a great fit for applying technical skills to interesting financial problems. I have worked at Analysis Group, an economic consulting firm, and will be with SIG’s ETF desk next summer. 
-
-:small_orange_diamond: **Luke Distefano**
-
-Junior, Economics and ACMS
-
-ldistefa@nd.edu
-
-Coming to Notre Dame, I was drawn to the application of mathematical methods to learn more about the economy. Previously, I worked in the Offices of Sustainability and Business Systems in South Dining Hall in order to find more efficient and sustainable initiatives for on-campus dining locations. Once I heard about the application of statistical analysis to investment strategies, I have been deeply engaged in becoming an expert as well as professional in the field.
-
-:small_orange_diamond: **Peter Christie**
-
-Sophomore, Business Analytics and ACMS
-
-pchrist1@nd.edu
-
-I have always been interested in the intersection math and statistics have with economics and markets, particularly as it has to do with data science. I hope to combine these passions into a career which allows for the opportunity to use data to drive performance.
-
-:small_orange_diamond: **Hanna Ferdynus**
- 
-Sophomore, Finance and ACMS
-
-hferdynu@nd.edu
-
-I have always liked math and I would like to use it in my professional career. I'm hoping to connect my future with financial services and quantitative finance is one of the fields I find particularly attractive.
-
-## Club Communication
-
-:speech_balloon: [Slack](https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g)
-
-:speech_balloon: [Google Group](https://groups.google.com/a/nd.edu/g/quant-club-2020-21-list)
-
-:speech_balloon: [Google Calendar](https://calendar.google.com/calendar/u/0?cid=cXVhbnRzQG5kLmVkdQ)
-
-## GitHub and Git
+## GitHub and git
 
 :star: What is GitHub?
 
@@ -119,11 +63,11 @@ I have always liked math and I would like to use it in my professional career. I
 * [Git documentation (manual pages)](https://git-scm.com/docs)
 * [Codecademy course](https://www.codecademy.com/learn/learn-git)
 
-## Interacting With the Code
+## Interacting with the code
 
 Practically all of our code is written in *Python 3* and assumes you have some packages installed before using it.
 
-### Package Installation Instructions
+### Package installation instructions
 We *highly* recommend managing all of your packages in a virtual environment. If you already have a virtual environment set up and activated, feel free to jump straight to the "Installation Step".
 
 :white_check_mark: Create a virtual environment.  In Quant Club we use the [Anaconda Software Distribution](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) to manage our virtual environments. To create one, call (in the Terminal on MacOS and in Anaconda Prompt on Windows)
@@ -146,7 +90,7 @@ in the repository's main directory. You may see some warning messages - this is 
 
 You're now ready to start interacting with the code!
 
-## Reference Materials
+## Reference materials
 
 * [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf)
 * [Interview with a quant portfolio manager about building trading strategies](https://blog.quandl.com/interview-with-a-quant-part-one)
@@ -156,3 +100,69 @@ You're now ready to start interacting with the code!
 * [Comprehensive Python tutorial](https://docs.python.org/3/tutorial/)
 * [Python course by Google](https://developers.google.com/edu/python/introduction)
 * [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+
+## Leadership
+
+:small_orange_diamond: **Kyle Duffy - Chairperson**
+
+Senior, Mathematics and Computer Science
+
+Working at Belvedere Trading
+
+kduffy5@nd.edu
+
+I started my career in trading when I read *The Intelligent Investor* by Benjamin Graham. Now I primarily focus on merging statistics and computing to create systematic options trading strategies. I love what I do and always like to learn more about math and computing!
+
+:small_orange_diamond: **Sam Gruenler - Managing Director**
+
+Junior, Economics and ACMS
+
+Working at Group One Trading
+
+sgruenle@nd.edu
+
+I’ve been interested in problems involving math and markets since high school, and when I discovered the quant trading field, it seemed like a great combination of these interests. Since then, I’ve focused particularly on applying statistics to commodity derivatives, and I’ll be working at Group One Trading next summer.
+
+:small_orange_diamond: **Ben Gluckow - Managing Director**
+
+Junior, ACMS and Economics
+
+Working at SIG
+
+bgluckow@nd.edu
+
+I came into Notre Dame thinking that I would be more interested in working in data science or technology. I stumbled across quant trading in my career search, and it seemed like a great fit for applying technical skills to interesting financial problems. I have worked at Analysis Group, an economic consulting firm, and will be with SIG’s ETF desk next summer. 
+
+:small_orange_diamond: **Matteo Cosentino - Operating Officer**
+
+Junior, Physics and Economics
+
+Working at Bank of America
+
+mcosenti@nd.edu
+
+I began investing many years before college, but once I discovered the power of computational physics, I saw the opportunity to apply this to my investing strategies. Since then I have worked at Wolfe Research, a quantitative research firm, and will be working for Bank of America’s quant group next summer.
+
+:small_orange_diamond: **Hanna Ferdynus - Operating Officer**
+ 
+Sophomore, Finance and ACMS
+
+hferdynu@nd.edu
+
+I have always liked math and I would like to use it in my professional career. I'm hoping to connect my future with financial services and quantitative finance is one of the fields I find particularly attractive.
+
+:small_orange_diamond: **Luke Distefano - Treasurer**
+
+Junior, Economics and ACMS
+
+ldistefa@nd.edu
+
+Coming to Notre Dame, I was drawn to the application of mathematical methods to learn more about the economy. Previously, I worked in the Offices of Sustainability and Business Systems in South Dining Hall in order to find more efficient and sustainable initiatives for on-campus dining locations. Once I heard about the application of statistical analysis to investment strategies, I have been deeply engaged in becoming an expert as well as professional in the field.
+
+:small_orange_diamond: **Peter Christie - Logistics Manager**
+
+Sophomore, Business Analytics and ACMS
+
+pchrist1@nd.edu
+
+I have always been interested in the intersection math and statistics have with economics and markets, particularly as it has to do with data science. I hope to combine these passions into a career which allows for the opportunity to use data to drive performance.
