@@ -3,21 +3,21 @@ Official resource page for the **Quant Club of Notre Dame**!
 
 <img align="right" width="200" height="180" src="https://github.com/kyduff/qcnd/blob/readme_updates/nd_logo.png">
 
-## Table of Contents
+## Table of contents
 
-:one: About the club
+:one: [About the club](#about-the-club)
 
-:two: Club communication
+:two: [Club communication](#club-communication)
 
-:three: Upcoming events and ways to get involved
+:three: [Upcoming events and ways to get involved](#upcoming-events-and-ways-to-get-involved)
 
-:four: GitHub and git
+:four: [GitHub and git](#github-and-git)
 
-:five: Interacting with the code
+:five: [Interacting with the code](#interacting-with-the-code)
 
-:six: Reference materials
+:six: [Reference materials](#reference-materials)
 
-:seven: Leadership
+:seven: [Leadership](#leadership)
 
 ## About the club
 
