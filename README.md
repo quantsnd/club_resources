@@ -27,7 +27,7 @@ We'll chat regularly on Slack (see [Club communication](#club-communication) to 
 
 ## Club communication
 
-:speech_balloon: Join our [Slack workspace](https://join.slack.com/t/quantclubnd/shared_invite/zt-ln76d1ya-ycvTDhBwlE3MhCn9HpTx4g)
+:speech_balloon: Join our [Slack workspace](http://quantclubnd.slack.com/)
 
 :speech_balloon: Join our [Google Group](https://groups.google.com/a/nd.edu/g/quant-club-2020-21-list)
 
