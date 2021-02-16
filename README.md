@@ -37,7 +37,7 @@ We'll chat regularly on Slack (see [Club communication](#club-communication) to 
 
 We will be meeting **every week** starting soon. To stay in the loop, join our Slack workspace and Google Group, and subscribe to our public calendar. The links to those resources are all under [Club communication](#club-communication). We'll regularly post updates about meeting times/places in there, and everyone in leadership is regularly available via Slack or email if you have questions.
 
-Additionally, one of our corporate sponsors, Belvedere Trading, will be hosting an information session about their Junior Hybrid Trader role on **Feb 11**.  Look [here](https://mailchi.mp/6d7b66f0ba30/jht-informationsession-2021) for more information and a registration link. It's limited to the **first 100 registrants** so sign up quick!
+If you attend a meeting, make sure to fill out the [attendance form](https://docs.google.com/forms/d/e/1FAIpQLSeQvcllWy4vFp2ioBMzArI2ouFOukV_Kx9PTUcSuPcUqH4HJw/viewform?usp=sf_link) with the meeting's code!
 
 ## GitHub and git
 
